@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mertaydin99
+- 👀 I’m interested in contributing to open source projects via coding, documenting, error& typo fixing and translation
+- 📫 How to reach me mertaydin991@hotmail.com
